@@ -1,5 +1,5 @@
 ### Mini projeto
-### npm i
+### npm i para instalar o node_modules.
 ### npm start
 
  #### Pela falta de tempo nao adcionei alguns detalhes finais !
